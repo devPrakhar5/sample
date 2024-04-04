@@ -1,2 +1,1 @@
-Sample project
-sample git push request
+Sample git push request
